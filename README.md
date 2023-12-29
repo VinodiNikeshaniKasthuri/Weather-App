@@ -14,3 +14,5 @@ Allows users to search 🔍 for weather information for any location in the worl
 # 💻 Last Interface
 ![2](https://github.com/VinodiNikeshaniKasthuri/weather-app01/assets/140379202/fccd55d7-f4cd-42cd-9237-5591434c25f5)
 
+### Thank you for watching my project.
+
