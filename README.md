@@ -1,8 +1,10 @@
-# 🔗 Weather Application Live link
+# 🌤️ Weather Application
+
+# 🔗  Live link
 https://vinodinikeshanikasthuri.github.io/Weather-App/
 
 
-# 🌤️ Weather Application
+# ℹ️ Description 
 
 Welcome to the Weather Application! This is a  web application that displays current weather conditions for a given location, powered by WeatherAPI.
 
